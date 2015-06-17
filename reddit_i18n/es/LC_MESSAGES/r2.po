@@ -7864,7 +7864,7 @@ msgstr "opciones de visualización"
 
 #: r2/templates/prefoptions.html:282
 msgid "allow subreddits to show me custom themes"
-msgstr "allow subreddits to show me custom themes"
+msgstr "me permiten los subreddits enseñame temas personalizados"
 
 #: r2/templates/prefoptions.html:285
 msgid "(you can also choose which subreddit themes to disable on an individual level)"
